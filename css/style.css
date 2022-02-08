@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+}
+/* Blue Colour #288BA6 */
+h1{
+ background-color: #313130;
+ color: #fff;
+ text-align: center;
+ font-size: 50px;
+ margin-top: 0;
+ padding: 25px 0;
+}
+
+.subhead{
+ background-color: #313130;
+ color: #288BA6;
+ font-size: 35px;
+ padding: 20px;
+ border-bottom: 5px solid #288BA6;  
+}
+.white-text{
+    color: #fff;
+}
+.container{
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 0 auto;
+}
+.row{
+    
+    display: flex;
+    
+
+}
+
+.col-left{
+    margin-left:25px;
+}
+.main-content{
+    width: 70%;
+}
+.sidebar{
+    width: 30%;
+    margin-left: 45px;
+    background-color: #3295b0;
+    padding: 0 10px;
+}
